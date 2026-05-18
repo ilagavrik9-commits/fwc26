@@ -3,8 +3,8 @@
   "grops": {
     "1202": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Мексика",
+      "team2": "ЮАР",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -12,8 +12,8 @@
     }
     "1209": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Южная Корея",
+      "team2": "Чехия",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -21,8 +21,8 @@
     }
     "1302": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Канада",
+      "team2": "Босния и Герцеговина",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -30,8 +30,8 @@
     }
     "1308": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "США",
+      "team2": "Парагвай",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -39,8 +39,8 @@
     }
     "1402": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Катар",
+      "team2": "Швейцария",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -48,8 +48,8 @@
     }
     "1405": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Бразилия",
+      "team2": "Марокко",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -57,8 +57,8 @@
     }
     "1408": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Гаити",
+      "team2": "Шотландия",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -66,8 +66,8 @@
     }
     "1411": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Австралия",
+      "team2": "Турция",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -75,8 +75,8 @@
     }
     "1500": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Германия",
+      "team2": "Кюрасао",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -84,8 +84,8 @@
     }
     "1503": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Нидерланды",
+      "team2": "Япония",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -93,8 +93,8 @@
     }
     "1506": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Кот-д'Ивуар",
+      "team2": "Эквадор",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -102,8 +102,8 @@
     }
     "1509": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Швеция",
+      "team2": "Тунис",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -111,8 +111,8 @@
     }
     "1523": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Испания",
+      "team2": "Кабо-Верде",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -129,8 +129,8 @@
     }
     "1605": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Бельгия",
+      "team2": "Египет",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -138,8 +138,8 @@
     }
     "1608": {
       "ready": "0",
-      "team1": "",
-      "team2": "",
+      "team1": "Иран",
+      "team2": "Новая Зеландия",
       "gol1": "",
       "gol2": "",
       "firstgolteam": "",
@@ -659,10 +659,304 @@
       "firstgolplayer": ""
     }
   }
-  "1/16": {}
-  "1/8": {}
-  "1/4": {}
-  "1/2": {}
-  "3rd place": {}
-  "final" {}
+  "1/16": {
+    "2902": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "3000": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "3004": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "3008": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00100": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00104": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00108": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00123": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00203": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00207": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00302": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00306": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00310": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00401": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00405": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00409": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
+  "1/8": {
+    "00500": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00504": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00603": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00607": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00702": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00707": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00723": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "00803": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
+  "1/4": {
+    "01003": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "01102": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "01204": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "01208": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
+  "1/2": {
+    "01502": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "01602": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
+  "3rd place": {
+    "01904": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
+  "final" {
+    "02002": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+  }
 }
