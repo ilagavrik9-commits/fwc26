@@ -794,7 +794,6 @@
       "firstgolteam": "",
       "firstgolplayer": ""
     }
-  }
   "1/8": {
     "00500": {
       "ready": "0",
@@ -938,7 +937,7 @@
       "firstgolplayer": ""
     }
   }
-  "final" {
+  "final": {
     "02002": {
       "ready": "0",
       "team1": "",
