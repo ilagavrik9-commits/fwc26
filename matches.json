@@ -1,11 +1,83 @@
 {
-  "1": {
-    "ready": "0",
-    "team1": "",
-    "team2": "",
-    "gol1": "",
-    "gol2": "",
-    "firstgolteam": "",
-    "firstgolplayer": ""
+  "matches" {}
+  "grops": {
+    "1202": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1209": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1302": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1308": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1402": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1405": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "1408": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
+    "": {
+      "ready": "0",
+      "team1": "",
+      "team2": "",
+      "gol1": "",
+      "gol2": "",
+      "firstgolteam": "",
+      "firstgolplayer": ""
+    }
   }
+  "1/16": {}
+  "1/8": {}
+  "1/4": {}
+  "1/2": {}
+  "3rd place": {}
+  "final" {}
 }
