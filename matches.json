@@ -1,9 +1,11 @@
 {
-  "": "",
-  "team1": "",
-  "team2": "",
-  "gol1": "",
-  "gol2": "",
-  "firstgolteam": "",
-  "firstgolplayer": ""
+  "1": {
+    "ready": "0",
+    "team1": "",
+    "team2": "",
+    "gol1": "",
+    "gol2": "",
+    "firstgolteam": "",
+    "firstgolplayer": ""
+  }
 }
